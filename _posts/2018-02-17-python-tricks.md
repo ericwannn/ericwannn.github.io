@@ -46,6 +46,7 @@ print(l1)
 print(l2)
 print(l3)
 ~~~
+<!--more-->
 
 # Python closure
 

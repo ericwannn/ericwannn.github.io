@@ -15,6 +15,8 @@ tags: ["python", "programming"]
 
 We will walk through these issues with some examples.
 
+<!--more-->
+
 ## Closure could *use* variables defined outside the scope
 
 To understand what a closure is and how variables exist among different scopes, let’s take a look at this example.

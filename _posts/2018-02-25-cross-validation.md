@@ -25,6 +25,8 @@ tags: ["machine learning", "scikit-learn"]
      3. Validate the model on validation set and got one result;
   4. (*optional*) Average the total *k* results.
 
+<!--more-->
+
 ---
 
 # Intuition & Motivation

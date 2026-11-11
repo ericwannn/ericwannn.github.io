@@ -10,6 +10,8 @@ tags: ["programming", "algorithm", "leetcode"]
 
 A very interesting [leetcode problem](https://leetcode.com/problems/task-scheduler/description/) came across to me today. The description is attached below. This problem could be solved in a smart and concise way so I would like to share with you: A 5 line C++ code that beats 100% other solutions
 
+<!--more-->
+
 ## Problem description
 
 > Given a char array representing tasks CPU need to do. It contains capital letters A to Z where different letters represent different tasks.Tasks could be done without original order. Each task could be done in one interval. For each interval, CPU could finish one task or just be idle.
