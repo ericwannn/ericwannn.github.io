@@ -17,6 +17,8 @@ date_format: '%Y-%m-%d'
 url: https://ericwannn.github.io
 baseurl:
 permalink: /:year/:month/:day/:title/
+# 构建时区：GitHub Pages 用 UTC 构建，不设此项会让 +0800 的文章日期前移一天
+timezone: "Asia/Shanghai"
 
 # Pagination
 paginate: 20
